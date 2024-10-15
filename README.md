@@ -8,7 +8,8 @@ road. Relevant data such as age, gender, cholesterol, BMI, smoking, medical hist
 heart rate, physical activity, blood pressure and diet will be collected and cleaned. Too 
 This process will include handling missing values, outliers, and data normalization, simultaneously 
 Perform exploratory analysis to better understand the characteristics. 
-    Advanced machine learning techniques such as Decision Tree, Random Forest, KNN, SVM, 
+
+   Advanced machine learning techniques such as Decision Tree, Random Forest, KNN, SVM, 
 XGBoost will be applied. Results from this model will help improve early diagnosis, 
 Prevent and treat diabetes more effectively. These models will be 
 build, then compare performance on criteria such as accuracy, sensitivity and consistency 
