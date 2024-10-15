@@ -20,5 +20,5 @@ No. | Student ID | Full Name
 --- | ---------- | ---------
 1 | 21521586 | Le Thi Le Truc (Leader)
 2 | 21520596 | Tran Thi Kim Anh
-3 | 21521882 | Lê Minh Chánh
+3 | 21521882 | Le Minh Chanh
 3 | 21521049 | Ho Quang Lam
